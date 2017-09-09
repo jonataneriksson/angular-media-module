@@ -1,0 +1,18 @@
+{
+  "name": "angular-media-module",
+  "main": "angular-media-module.js",
+  "authors": [
+    "Jonatan Eriksson <jonatan@tsto.org>"
+  ],
+  "description": "An angular directive for video/audio functionalities",
+  "license": "MIT",
+  "homepage": "tsto.org",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
