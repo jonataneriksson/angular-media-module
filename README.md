@@ -1,2 +1,2 @@
-# angular-media-module
-An angular directive for video/audio functionalities
+# Media Directive for Angular
+A simple directive for video/audio functionalities.

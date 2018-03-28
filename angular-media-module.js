@@ -70,7 +70,7 @@ plugin.directive('media', ['$timeout', function ($timeout) { return function ($s
 	//Play
 	$scope.$on('play', function(event, args) {
 		if(media.HAVE_ENOUGH_DATA > 3) {
-			media.play();
+      media.play();
 		} else {
 			console.error('Media didnt start playing');
 		}
